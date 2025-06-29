@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm *Alexey Ivanov*,
+I’m *Alexey Ivanov*,
 a Java Client Sustaining Engineer at Oracle.
 
 I work on the OpenJDK project focusing on
